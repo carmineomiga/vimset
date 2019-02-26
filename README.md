@@ -8,11 +8,3 @@ git clone http://github.com/carmineomiga/vimset
 cd vimset
 cd -f ./.vimrc ~
 ```
-
-* item1
-* item2
-
-1. item1
-1. item2
-	1. item1
-	1. item2
